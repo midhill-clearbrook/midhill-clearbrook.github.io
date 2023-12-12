@@ -3,8 +3,8 @@
     "repo": "midhill-clearbrook.github.io",
     "client_id": "0dd0206315cff701c64f",
     "client_secret": "3d311f8d3a26af88b329d09d603dfd262dc1c074",
-    "title": "Gitblog",
-    "instruction": "基于GitHub issue的个人博客模板",
+    "title": "半山清溪",
+    "instruction": "半山清溪的个人博客",
     "server_link": "server/gh-oauth-server.php",
     "filter": {
         "creator": "all",
