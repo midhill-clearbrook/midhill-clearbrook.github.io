@@ -34,7 +34,7 @@
     box-shadow: 0 0 5px #95a5a6;
     position: relative;
     top: -68px;
-    opacity: 100%;
+    opacity: 0;
     transform: translateY(-20px);
     transition: all 0.8s;
 }
